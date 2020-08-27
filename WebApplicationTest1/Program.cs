@@ -13,6 +13,7 @@ namespace WebApplicationTest1
     {
         public static void Main(string[] args)
         {
+            // checking
             CreateHostBuilder(args).Build().Run();
         }
 
